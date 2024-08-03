@@ -1,3 +1,4 @@
+# with limited tries
 secret_word = "coffee"
 guess = ""
 guess_count = 0
